@@ -10,7 +10,7 @@
 }
 
 nav li {
-	display: flex;
+	display: inline;
 	margin-right: 1rem;
 }
 
